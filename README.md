@@ -1,7 +1,7 @@
 # Welcome to Deep Learning Tutorial using Keras 
 In this tutorial you will learn how to build a deep learning sequential model using one of the famous deep learning API Keras. 
 
-# CNN Model from Scratch
+## Convolutional Neural Network (CNN) Model from Scratch
 
 This repository contains step by step demonstration that how to build a Convolutional Neural Network (CNN) model from scratch using TensorFlow and Keras. The project also includes a comparison of building a model from scratch with a fine-tuned VGG16 model.
 
